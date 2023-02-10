@@ -1,1 +1,1 @@
-# HyperSpectral_Remote_Sensing
+# Some of Hyperspectral Remote Sensing Simple Projects
